@@ -1,0 +1,179 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+		}
+	    ,{
+            "path" : "pages/index/start/start",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/index/make/make",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/index/explain/explain",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/index/poster/poster",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+		,{
+		    "path" : "pages/index/poster/sharePoster",
+		    "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+		}
+        ,{
+            "path" : "pages/index/prize/prize",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+		,{
+		    "path" : "pages/index/prize/prizeRule",
+		    "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+		}
+        ,{
+            "path" : "pages/index/userinfo/userinfo",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/index/assistance/assistance",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+        ,{
+            "path" : "pages/index/ranking/ranking",
+            "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+        }
+		,{
+		    "path" : "pages/index/login",
+		    "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+		}
+		,{
+		    "path" : "pages/index/content",
+		    "style" : {
+				"navigationBarTextStyle": "black",
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false,
+				"onReachBottomDistance": 100,
+				"app-plus": {
+					"bounce": "none",
+					"titleNView": false
+				}
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "蓝小鲸家族",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

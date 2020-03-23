@@ -1,0 +1,45 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #f7f7f7;
+	font-family: '微软雅黑';
+	max-width: 450px;
+}
+
+html,
+body,
+img,
+view,
+text {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	font-size: 62.5%;
+}
+
+.bgcf {
+	background: #fff;
+}
+
+.flex {
+	display: flex;
+}
+
+.content_img {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.content_img image {
+	width: 100%;
+	height: 100%;
+}
+.text_center{
+	text-align: center;
+}
+
+
